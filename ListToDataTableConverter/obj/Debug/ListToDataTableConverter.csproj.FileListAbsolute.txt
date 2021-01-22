@@ -1,0 +1,7 @@
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\obj\Debug\ListToDataTableConverter.csprojAssemblyReference.cache
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\obj\Debug\ListToDataTableConverter.csproj.CoreCompileInputs.cache
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\bin\Debug\ListToDataTableConverter.exe.config
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\bin\Debug\ListToDataTableConverter.exe
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\bin\Debug\ListToDataTableConverter.pdb
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\obj\Debug\ListToDataTableConverter.exe
+C:\Users\hgkim\source\repos\ListToDataTableConverter\ListToDataTableConverter\obj\Debug\ListToDataTableConverter.pdb
