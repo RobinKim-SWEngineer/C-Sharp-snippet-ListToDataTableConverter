@@ -4,7 +4,7 @@
 
 ## What is this snippet about ?
 
-This is a code snippet that can convert **a list of data types to a data table**. This conversion is necessary when we need to export the query result into a excel file because when working with Database, we get the data set from DB as a list of List<modelObjects>.
+This is a code snippet that can convert **a list of data types to a data table**. This conversion is necessary when we need to export the query result into a excel file because when working with Database, we get the data set from DB as a list of model objects.
 
 > When it comes to working with database, Dapper is a handy library that does relational mapping for us between C# object <--> Query result, which reduces the amount of code dramatically. 
 
